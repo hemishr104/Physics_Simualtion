@@ -5,7 +5,7 @@ A 2D physics simulation built with Python, Pygame, and Pymunk.
 ## Features
 - Click anywhere in the simulation area to spawn bouncing balls.
 - Drag existing balls with the mouse.
-- Sidebar to dynamically control gravity (increase or decrease).
+- click  control gravity (increase or decrease).
 - Simple and interactive physics environment.
 
 ## Requirements
